@@ -20,3 +20,26 @@ C:\Users\abda7\Documents\code\SqlServerSample\SqlServerSample\obj\Debug\net8.0\r
 C:\Users\abda7\Documents\code\SqlServerSample\SqlServerSample\obj\Debug\net8.0\SqlServerSample.pdb
 C:\Users\abda7\Documents\code\SqlServerSample\SqlServerSample\obj\Debug\net8.0\SqlServerSample.genruntimeconfig.cache
 C:\Users\abda7\Documents\code\SqlServerSample\SqlServerSample\obj\Debug\net8.0\ref\SqlServerSample.dll
+C:\Users\Abdullah Yaser\Documents\code\SqlServerSample\bin\Debug\net8.0\SqlServerSample.exe
+C:\Users\Abdullah Yaser\Documents\code\SqlServerSample\bin\Debug\net8.0\SqlServerSample.deps.json
+C:\Users\Abdullah Yaser\Documents\code\SqlServerSample\bin\Debug\net8.0\SqlServerSample.runtimeconfig.json
+C:\Users\Abdullah Yaser\Documents\code\SqlServerSample\bin\Debug\net8.0\SqlServerSample.dll
+C:\Users\Abdullah Yaser\Documents\code\SqlServerSample\bin\Debug\net8.0\SqlServerSample.pdb
+C:\Users\Abdullah Yaser\Documents\code\SqlServerSample\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Abdullah Yaser\Documents\code\SqlServerSample\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Abdullah Yaser\Documents\code\SqlServerSample\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Abdullah Yaser\Documents\code\SqlServerSample\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Abdullah Yaser\Documents\code\SqlServerSample\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Abdullah Yaser\Documents\code\SqlServerSample\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Abdullah Yaser\Documents\code\SqlServerSample\obj\Debug\net8.0\SqlServerSample.csproj.AssemblyReference.cache
+C:\Users\Abdullah Yaser\Documents\code\SqlServerSample\obj\Debug\net8.0\SqlServerSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdullah Yaser\Documents\code\SqlServerSample\obj\Debug\net8.0\SqlServerSample.AssemblyInfoInputs.cache
+C:\Users\Abdullah Yaser\Documents\code\SqlServerSample\obj\Debug\net8.0\SqlServerSample.AssemblyInfo.cs
+C:\Users\Abdullah Yaser\Documents\code\SqlServerSample\obj\Debug\net8.0\SqlServerSample.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah Yaser\Documents\code\SqlServerSample\obj\Debug\net8.0\SqlServerSample.sourcelink.json
+C:\Users\Abdullah Yaser\Documents\code\SqlServerSample\obj\Debug\net8.0\SqlServe.679F8474.Up2Date
+C:\Users\Abdullah Yaser\Documents\code\SqlServerSample\obj\Debug\net8.0\SqlServerSample.dll
+C:\Users\Abdullah Yaser\Documents\code\SqlServerSample\obj\Debug\net8.0\refint\SqlServerSample.dll
+C:\Users\Abdullah Yaser\Documents\code\SqlServerSample\obj\Debug\net8.0\SqlServerSample.pdb
+C:\Users\Abdullah Yaser\Documents\code\SqlServerSample\obj\Debug\net8.0\SqlServerSample.genruntimeconfig.cache
+C:\Users\Abdullah Yaser\Documents\code\SqlServerSample\obj\Debug\net8.0\ref\SqlServerSample.dll

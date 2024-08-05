@@ -7,7 +7,11 @@ class Program
 {
     static void Main(string[] args)
     {
-        string connectionString = "Server=buudi\\SQLEXPRESS;Database=MyBootcamp;Trusted_Connection=true";
+        // string connectionString = "Server=buudi\\SQLEXPRESS;Database=MyBootcamp;Trusted_Connection=true"; // Home PC
+        // string connectionString = "Server=BITLAB-001\\SQLEXPRESS;Database=MyBootcamp;Trusted_Connection=True;"; Work Laptop
+        
+        string connectionString = "Server=localhost\\SQLEXPRESS;Database=MyBootcamp;Trusted_Connection=True;"; // Using Local Host
+
 
         using (SqlConnection connection = new SqlConnection(connectionString))
         {
@@ -23,8 +27,8 @@ class Program
 
                 while (reader.Read())
                 {
-                    // Console.WriteLine($"{reader["id"]}, {reader["name"]}, {reader["CreateDateTime"]}");
-                    Console.WriteLine($"{reader["name"]}");
+                    Console.WriteLine($"Id: {reader["id"]}, Name: {reader["name"]}, Created: {reader["CreateDateTime"]}");
+                    // Console.WriteLine($"{reader["name"]}");
                 }
                 reader.Close();
             }

@@ -470,19 +470,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\abda7\\.nuget\\packages\\": {}
+    "C:\\Users\\Abdullah Yaser\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\abda7\\Documents\\code\\SqlServerSample\\SqlServerSample\\SqlServerSample.csproj",
+      "projectUniqueName": "C:\\Users\\Abdullah Yaser\\Documents\\code\\SqlServerSample\\SqlServerSample.csproj",
       "projectName": "SqlServerSample",
-      "projectPath": "C:\\Users\\abda7\\Documents\\code\\SqlServerSample\\SqlServerSample\\SqlServerSample.csproj",
-      "packagesPath": "C:\\Users\\abda7\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\abda7\\Documents\\code\\SqlServerSample\\SqlServerSample\\obj\\",
+      "projectPath": "C:\\Users\\Abdullah Yaser\\Documents\\code\\SqlServerSample\\SqlServerSample.csproj",
+      "packagesPath": "C:\\Users\\Abdullah Yaser\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Abdullah Yaser\\Documents\\code\\SqlServerSample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\abda7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Abdullah Yaser\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -535,7 +535,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

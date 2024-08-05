@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SqlServerSample
-build_property.ProjectDir = C:\Users\abda7\Documents\code\SqlServerSample\SqlServerSample\
+build_property.ProjectDir = C:\Users\Abdullah Yaser\Documents\code\SqlServerSample\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
